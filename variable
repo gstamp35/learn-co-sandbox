@@ -1,0 +1,15 @@
+'this is data, it is a string. strings start and end with "'
+
+"part of being data, or a string, is that ruby doesn't interpret it."
+
+puts 1+1
+puts "1+1"
+
+example = "the word 'example' is equal to this sentence, it's a variable."
+
+puts example
+puts example
+puts example
+
+puts "variables are any previously undefined word that"
+pust "starts with a lowercase letter." 
